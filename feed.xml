@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Orlandos 5-Minuten-IT-Feed</title>
+    <link>https://orlando-5min-it.github.io/</link>
+    <description>Kurz und knapp: Tägliche IT-Einheiten in 5 Minuten</description>
+    <language>de-ch</language>
+    <pubDate>Wed, 24 Jul 2025 08:00:00 +0200</pubDate>
+
+    <item>
+      <title>Reverse Proxy</title>
+      <link>https://orlando-5min-it.github.io/reverse-proxy</link>
+      <description><![CDATA[
+        <strong>Begriff:</strong> Reverse Proxy<br>
+        <strong>Beispiel:</strong> Versteckt interne Webdienste wie api.intern.local hinter meinserver.ch via NGINX<br>
+        <strong>Denkfrage:</strong> Warum ist ein Reverse Proxy oft sicherer als direkter Zugriff auf den Webserver?<br>
+        <em>a) Verschlüsselt automatisch<br>
+        b) Verändert IPs<br>
+        <strong>c) Filtert Angriffe<br>
+        d) Schaltet den Server aus</strong></em>
+      ]]></description>
+      <pubDate>Wed, 24 Jul 2025 08:00:00 +0200</pubDate>
+      <guid>reverse-proxy</guid>
+    </item>
+
+  </channel>
+</rss>
